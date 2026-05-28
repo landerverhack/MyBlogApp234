@@ -1,3 +1,9 @@
+# IDE & tool folders
+.vs/
+.vscode/
+.playwright-mcp/
+*.user
+
 # Created by https://gitignore.org
 # Dotnet.gitignore
 
